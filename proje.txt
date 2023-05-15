@@ -1,0 +1,102 @@
+Jahr:yıl
+Beispiel:örnek
+Zeit:zaman
+Frau:kadın, eş
+Mensch:insan,insanoğlu
+Kind:çocuk
+Tag:gün
+Mann:erkek
+Land:ülke
+Frage:soru
+Haus:ev
+Fall:durum, vaziyet
+Leute:insanlar
+Arbeit:iş, çalışma
+Prozent:yüzde
+Hand:el
+Stadt:şehir
+Herr:bay, efendi
+Teil:parça, bölüm
+Problem:sorun
+Welt:dünya
+Recht:hak, doğru
+Ende:son
+Million:milyon
+Schule:okul
+Woche:hafta
+Vater:baba
+Seite:sayfa
+Leben:hayat
+Mutter:Anne
+Grund:sebep
+Auge,n:göz
+Wort:kelime
+Geld:para
+Sache:şey
+Art:tip,tür
+Bereich:alan
+Weg:yol,patika
+Stunde:saat
+Name:isim,ad
+Geschichte:tarih,öykü
+Gesellschaft,en:toplum
+Kopf:kafa
+Paar:çift
+Möglichkeit :fırsat,imkan
+Unternehmen:girişim,şirket
+Bild:resim
+Wasser:su
+Stelle:baasmak, yer
+Form:form, biçim
+Entwicklung:gelişim
+Monat:ay
+Familie:aile
+Morgen:sabah
+Abend:akşam
+Aufgabe:görev
+Universität:üniversite
+Uni:üniversite
+Sinn:anlam, duyu
+Staat:eyalet, devlet
+Ziel:amaç, hedef
+Freund:arkadaş
+Thema:konu
+Person:insan
+Nacht:gece
+Ding:şey
+Raum:oda, boşluk
+Blick:görünüm
+Platz:yer, meydan
+Zahl:sayı
+System:sistem
+Uhr:saat
+Eltern:ebeveyn
+Straße:sokak
+Minute:dakika
+Gruppe:grup
+Wert:değer
+Gesicht:yüz
+Sprache:dil
+Anfang:başlangıç
+Ort:yer,belde
+Moment:an
+Folge:sonuç
+Interesse:ilgi
+Stuhl:sandalye
+Rolle:rol,rulo
+Tür:kapı
+Schüler:öğrenci
+Bedeutung:anlam
+Text:metin
+Ergebnis:sonuç
+Krieg:savaş
+Weise:yol
+Regierung:hükümet
+Stück:parça, adet
+Wohnung:apartman
+Gespräch:konuşma,sohbet
+Buch:kitap
+Auto:araba
+Katze:Kedi
+Erdnuss:Yer Fistigi
+Hund:Kopek
